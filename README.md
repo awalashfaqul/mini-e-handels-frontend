@@ -22,7 +22,7 @@ This project demonstrates a full-featured e-store with **Products**, **Categorie
 
 ## Technologies
 
-* **Frontend:** React, React Router, Tailwind CSS
+* **Frontend:** React+Vite, React Router, Tailwind CSS
 * **State Management:** React Context API
 * **API Integration:** Fetch REST API
 * **Styling:** Tailwind CSS, custom CSS overrides
